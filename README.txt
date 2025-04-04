@@ -42,11 +42,11 @@ IDE eclipse o intellj GitHub
 
 🛠️ Instalación
 
-Clona este repositorio: -> git clone Accede al directorio del proyecto Instala las dependencias: npm install …
+Clona este repositorio: -> git clone 
 
 ▶️ Ejecución
 
-Configura la base de datos a config/*database.js. Ejecuta el servidor: npm start
+
 
 🌐 Despliegue
 
